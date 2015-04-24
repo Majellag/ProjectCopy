@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>user</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b6ff7c13-4ffb-46f5-be8d-fe85f60abaed</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\CrystalClearUniversal.WindowsPhone.exe">
+      <PackagePath>CrystalClearUniversal.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\addAccount.jpg">
+      <PackagePath>Assets\addAccount.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\meterReading.jpg">
+      <PackagePath>Assets\meterReading.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\river.jpg">
+      <PackagePath>Assets\river.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\timer.jpg">
+      <PackagePath>Assets\timer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\water.jpg">
+      <PackagePath>Assets\water.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\waves.jpg">
+      <PackagePath>Assets\waves.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\appbar.timer.pause.png">
+      <PackagePath>Assets\appbar.timer.pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\appbar.timer.play.png">
+      <PackagePath>Assets\appbar.timer.play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\appbar.timer.png">
+      <PackagePath>Assets\appbar.timer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\appbar.timer.stop.png">
+      <PackagePath>Assets\appbar.timer.stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\BadgeScale58x58.scale-240.png">
+      <PackagePath>Assets\BadgeScale58x58.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\Logo.120x120.png">
+      <PackagePath>Assets\Logo.120x120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\note-clipart.png">
+      <PackagePath>Assets\note-clipart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\onedrive.png">
+      <PackagePath>Assets\onedrive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\Square.scale360x360.png">
+      <PackagePath>Assets\Square.scale360x360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\waterSplashPhone1152x1920.png">
+      <PackagePath>Assets\waterSplashPhone1152x1920.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\CreateAccount.xbf">
+      <PackagePath>CreateAccount.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\MeterReading.xbf">
+      <PackagePath>MeterReading.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\OneDrive.xbf">
+      <PackagePath>OneDrive.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\Timer.xbf">
+      <PackagePath>Timer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\WaterConservation.xbf">
+      <PackagePath>WaterConservation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\CrystalClearUniversal.WindowsPhone.xr.xml">
+      <PackagePath>CrystalClearUniversal.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

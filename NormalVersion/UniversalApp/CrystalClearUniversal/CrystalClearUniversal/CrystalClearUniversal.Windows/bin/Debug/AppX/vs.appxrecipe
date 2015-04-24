@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>user</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1dd7b042-4760-4aed-aa5b-2ff37aee8b29</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1A9C8859F074197656A14789412C474C047AA5668B469E6D8FCD9E42A3E23AD1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1dd7b042-4760-4aed-aa5b-2ff37aee8b29_1.0.0.0_neutral__yzekw4x8qxe1g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1dd7b042-4760-4aed-aa5b-2ff37aee8b29_yzekw4x8qxe1g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1dd7b042-4760-4aed-aa5b-2ff37aee8b29</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=user</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-23T15:09:04.470</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\CrystalClearUniversal.Windows.exe">
+      <PackagePath>CrystalClearUniversal.Windows.exe</PackagePath>
+      <Modified>2015-04-24T08:23:02.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\addAccount.jpg">
+      <PackagePath>Assets\addAccount.jpg</PackagePath>
+      <Modified>2015-04-22T19:45:18.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\bathroom.jpg">
+      <PackagePath>Assets\bathroom.jpg</PackagePath>
+      <Modified>2015-04-22T19:48:44.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\euro.jpg">
+      <PackagePath>Assets\euro.jpg</PackagePath>
+      <Modified>2015-04-23T15:06:49.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\garden.jpg">
+      <PackagePath>Assets\garden.jpg</PackagePath>
+      <Modified>2015-04-22T19:48:54.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\kitchen2.jpg">
+      <PackagePath>Assets\kitchen2.jpg</PackagePath>
+      <Modified>2015-04-22T19:49:00.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\meterReading.jpg">
+      <PackagePath>Assets\meterReading.jpg</PackagePath>
+      <Modified>2015-04-22T19:45:27.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\river.jpg">
+      <PackagePath>Assets\river.jpg</PackagePath>
+      <Modified>2015-04-15T11:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\timer.jpg">
+      <PackagePath>Assets\timer.jpg</PackagePath>
+      <Modified>2015-04-22T19:45:09.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\water.jpg">
+      <PackagePath>Assets\water.jpg</PackagePath>
+      <Modified>2015-04-15T10:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\waterCon.jpg">
+      <PackagePath>Assets\waterCon.jpg</PackagePath>
+      <Modified>2015-04-22T19:44:55.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\waves.jpg">
+      <PackagePath>Assets\waves.jpg</PackagePath>
+      <Modified>2015-04-15T11:19:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\appbar.timer.pause.png">
+      <PackagePath>Assets\appbar.timer.pause.png</PackagePath>
+      <Modified>2015-04-18T17:57:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\appbar.timer.play.png">
+      <PackagePath>Assets\appbar.timer.play.png</PackagePath>
+      <Modified>2015-04-18T17:57:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\appbar.timer.png">
+      <PackagePath>Assets\appbar.timer.png</PackagePath>
+      <Modified>2015-04-18T17:57:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\appbar.timer.stop.png">
+      <PackagePath>Assets\appbar.timer.stop.png</PackagePath>
+      <Modified>2015-04-18T17:57:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2015-04-23T13:09:46.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\meter.png">
+      <PackagePath>Assets\meter.png</PackagePath>
+      <Modified>2015-04-22T19:49:14.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\meteredHouse.png">
+      <PackagePath>Assets\meteredHouse.png</PackagePath>
+      <Modified>2015-04-23T14:54:13.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\multihouse.png">
+      <PackagePath>Assets\multihouse.png</PackagePath>
+      <Modified>2015-04-23T14:54:05.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\note-clipart.png">
+      <PackagePath>Assets\note-clipart.png</PackagePath>
+      <Modified>2015-04-20T14:40:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\onedrive.png">
+      <PackagePath>Assets\onedrive.png</PackagePath>
+      <Modified>2015-04-22T19:45:35.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\singlehouse.png">
+      <PackagePath>Assets\singlehouse.png</PackagePath>
+      <Modified>2015-04-23T14:52:32.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\smileySplash1116x540.png">
+      <PackagePath>Assets\smileySplash1116x540.png</PackagePath>
+      <Modified>2015-04-23T13:54:44.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\SpashScreenNew.scale-100.png">
+      <PackagePath>Assets\SpashScreenNew.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-23T13:09:46.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\SplashScreenNew.scale-100.png">
+      <PackagePath>Assets\SplashScreenNew.scale-100.png</PackagePath>
+      <Modified>2015-04-23T13:26:36.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\Assets\waterSplash620x300.scale-180.png">
+      <PackagePath>Assets\waterSplash620x300.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-23T13:54:44.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-18T18:01:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\Billing.xbf">
+      <PackagePath>Billing.xbf</PackagePath>
+      <Modified>2015-04-23T15:09:02.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\CreateAccount.xbf">
+      <PackagePath>CreateAccount.xbf</PackagePath>
+      <Modified>2015-04-23T19:20:31.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\GraphPage.xbf">
+      <PackagePath>GraphPage.xbf</PackagePath>
+      <Modified>2015-04-18T18:01:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-24T08:23:00.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\MeterReading.xbf">
+      <PackagePath>MeterReading.xbf</PackagePath>
+      <Modified>2015-04-23T15:17:14.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\OneDrive.xbf">
+      <PackagePath>OneDrive.xbf</PackagePath>
+      <Modified>2015-04-23T15:17:14.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\Timer.xbf">
+      <PackagePath>Timer.xbf</PackagePath>
+      <Modified>2015-04-23T15:17:14.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\WaterConservation.xbf">
+      <PackagePath>WaterConservation.xbf</PackagePath>
+      <Modified>2015-04-23T15:17:14.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\CrystalClearUniversal.Windows.xr.xml">
+      <PackagePath>CrystalClearUniversal.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-23T15:09:01.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Desktop\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-23T15:09:04.011</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

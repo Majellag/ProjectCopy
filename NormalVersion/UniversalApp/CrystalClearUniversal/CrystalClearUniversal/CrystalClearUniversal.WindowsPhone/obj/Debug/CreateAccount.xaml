@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="CrystalClearUniversal.CreateAccount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CrystalClearUniversal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="Assets/water.jpg"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="CRYSTAL CLEAR" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="Black"/>
+            <TextBlock Text="create account" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="Black"/>
+        </StackPanel>
+
+        <ScrollBar Margin="0,0,0,-506.833" Background="{x:Null}"/>
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="10,9.833,14,33">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="49*"/>
+                <ColumnDefinition Width="63*"/>
+                <ColumnDefinition Width="76*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Family Name" FontSize="30" Margin="0,0,-1.167,430" Name="FamilyName" Grid.ColumnSpan="3" Foreground="Black"/>
+            <TextBox x:Name="familyNmeTxtBx" HorizontalAlignment="Left" 
+                    Height="40" TextWrapping="Wrap" Margin="0,37,0,0"
+                    Text="" VerticalAlignment="Top" Width="366" Grid.ColumnSpan="3" />
+            <TextBlock Text="Number of Residents" FontSize="30" Margin="0,82,-2.167,349" Name="NoOfResidents" Grid.ColumnSpan="3" Foreground="Black"/>
+            <TextBox x:Name="numberTxtBx" HorizontalAlignment="Left" 
+                    Height="40" TextWrapping="Wrap" Margin="0,123,0,0"
+                    Text="" VerticalAlignment="Top" Width="366" Grid.ColumnSpan="3"/>
+            <TextBlock Text="Email" Margin="0,168,7.833,266" FontSize="30" Name="Email" Grid.ColumnSpan="3" Foreground="Black"/>
+            <Button x:ConnectionId='1' HorizontalAlignment="Center" 
+                    Margin="98,236,71.833,0" 
+                    Content="Add Account"                          VerticalAlignment="Top" Width="206" Background="#FF8DA2AA" FontWeight="Bold" Foreground="Black" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="emailTxtBx" HorizontalAlignment="Left" 
+                    Height="40" TextWrapping="Wrap" Margin="0,201,0,0"
+                    Text="" VerticalAlignment="Top" Width="366"  Grid.ColumnSpan="3"/>
+            <Button x:ConnectionId='2' Name="viewAccBtn" Content="View Account" HorizontalAlignment="Center" Margin="98,280,71.833,0" VerticalAlignment="Top" Width="206" Height="58"                          Foreground="Black" FontWeight="Bold" Background="#FF8DA2AA" Grid.ColumnSpan="3" />
+            <Button x:ConnectionId='3' x:Name="MeterReadingBtn" Content="Back" HorizontalAlignment="Left" Margin="98,324,0,0" VerticalAlignment="Top" Width="206" Height="58"                                Foreground="Black" FontWeight="Bold" Background="#FF8DA2AA" RenderTransformOrigin="1.667,6.624" Grid.ColumnSpan="3" />
+            <TextBlock HorizontalAlignment="Left" Margin="43,458,0,-3" TextWrapping="Wrap" Name="TextBlock1" VerticalAlignment="Bottom" FontSize="40" Foreground="Black"/>
+        </Grid>
+
+
+    </Grid>
+
+</Page>
+
