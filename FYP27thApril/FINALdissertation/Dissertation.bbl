@@ -1,0 +1,72 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gunduz and Pathan(2012)]{gunduz2012usability}
+Feyza Gunduz and AK~Pathan.
+\newblock Usability improvements for touch-screen mobile flight booking
+  application: A case study.
+\newblock In \emph{Advanced Computer Science Applications and Technologies
+  (ACSAT), 2012 International Conference on}, pages 49--54. IEEE, 2012.
+
+\bibitem[Hashim et~al.(2011)Hashim, Ahmad, and Ahmad]{hashim2011mobile}
+Ahmad~Sobri Hashim, Wan Fatimah~Wan Ahmad, and Rohiza Ahmad.
+\newblock Mobile learning course content application as a revision tool: The
+  effectiveness and usability.
+\newblock In \emph{Pattern Analysis and Intelligent Robotics (ICPAIR), 2011
+  International Conference on}, volume~2, pages 184--187. IEEE, 2011.
+
+\bibitem[Hussain et~al.(2008)Hussain, Lechner, Milchrahm, Shahzad, Slany,
+  Umgeher, Vlk, and Wolkerstorfer]{hussain2008user}
+Zahid Hussain, Martin Lechner, Harald Milchrahm, Sara Shahzad, Wolfgang Slany,
+  Martin Umgeher, Thomas Vlk, and Peter Wolkerstorfer.
+\newblock User interface design for a mobile multimedia application: An
+  iterative approach.
+\newblock In \emph{Advances in Computer-Human Interaction, 2008 First
+  International Conference on}, pages 189--194. IEEE, 2008.
+
+\bibitem[Kondratova and Goldfarb(2006)]{kondratova2006m}
+Irina Kondratova and Ilia Goldfarb.
+\newblock M-learning: Overcoming the usability challenges of mobile devices.
+\newblock In \emph{Networking, International Conference on Systems and
+  International Conference on Mobile Communications and Learning Technologies,
+  2006. ICN/ICONS/MCL 2006. International Conference on}, pages 223--223. IEEE,
+  2006.
+
+\bibitem[Lee and Grice(2004)]{lee2004developing}
+Kwang~Bok Lee and Roger~A Grice.
+\newblock Developing a new usability testing method for mobile devices.
+\newblock In \emph{Professional Communication Conference, 2004. IPCC 2004.
+  Proceedings. International}, pages 115--127. IEEE, 2004.
+
+\bibitem[Martinazzo et~al.(2008)Martinazzo, Patr{\'\i}cio, Biazon, Ficheman,
+  and Lopes]{martinazzo2008testing}
+A~Martinazzo, Nathalia~Sautchuk Patr{\'\i}cio, Leandro~Coletto Biazon,
+  Irene~Karaguilla Ficheman, and R~Lopes.
+\newblock Testing the olpc drawing activity: an usability report.
+\newblock In \emph{Advanced Learning Technologies, 2008. ICALT'08. Eighth IEEE
+  International Conference on}, pages 844--846. IEEE, 2008.
+
+\bibitem[Nayebi et~al.(2012)Nayebi, Desharnais, and Abran]{nayebi2012state}
+Fatih Nayebi, Jean-Marc Desharnais, and Alain Abran.
+\newblock The state of the art of mobile application usability evaluation.
+\newblock In \emph{CCECE}, pages 1--4, 2012.
+
+\bibitem[Rauch(2011)]{rauch2011mobile}
+Marta Rauch.
+\newblock Mobile documentation: Usability guidelines, and considerations for
+  providing documentation on kindle, tablets, and smartphones.
+\newblock In \emph{Professional Communication Conference (IPCC), 2011 IEEE
+  International}, pages 1--13. IEEE, 2011.
+
+\bibitem[Seraj and Wong(2012)]{seraj2012study}
+M~Seraj and Chui~Yin Wong.
+\newblock A study of user interface design principles and requirements for
+  developing a mobile learning prototype.
+\newblock In \emph{Computer \& Information Science (ICCIS), 2012 International
+  Conference on}, volume~2, pages 1014--1019. IEEE, 2012.
+
+\end{thebibliography}

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="27627Majella.CrystalClear" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CreateAccount.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/CreateAccount.xbf">
+				<Candidate type="Path">
+					<Value>CreateAccount.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CrystalClearUniversal.WindowsPhone.xr.xml" uri="ms-resource://27627Majella.CrystalClear/Files/CrystalClearUniversal.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>CrystalClearUniversal.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MeterReading.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/MeterReading.xbf">
+				<Candidate type="Path">
+					<Value>MeterReading.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OneDrive.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/OneDrive.xbf">
+				<Candidate type="Path">
+					<Value>OneDrive.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Timer.xbf" uri="ms-resource://27627Majella.CrystalClear/Files/Timer.xbf">
+				<Candidate type="Path">
+					<Value>Timer.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="120x120.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/120x120.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\120x120.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="addAccount.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/addAccount.jpg">
+					<Candidate type="Path">
+						<Value>Assets\addAccount.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appbar.timer.pause.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/appbar.timer.pause.png">
+					<Candidate type="Path">
+						<Value>Assets\appbar.timer.pause.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appbar.timer.play.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/appbar.timer.play.png">
+					<Candidate type="Path">
+						<Value>Assets\appbar.timer.play.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appbar.timer.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/appbar.timer.png">
+					<Candidate type="Path">
+						<Value>Assets\appbar.timer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appbar.timer.stop.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/appbar.timer.stop.png">
+					<Candidate type="Path">
+						<Value>Assets\appbar.timer.stop.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeScale58x58.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/BadgeScale58x58.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeScale58x58.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.120x120.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/Logo.120x120.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo.120x120.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meterReading.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/meterReading.jpg">
+					<Candidate type="Path">
+						<Value>Assets\meterReading.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="note-clipart.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/note-clipart.png">
+					<Candidate type="Path">
+						<Value>Assets\note-clipart.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="onedrive.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/onedrive.png">
+					<Candidate type="Path">
+						<Value>Assets\onedrive.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="river.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/river.jpg">
+					<Candidate type="Path">
+						<Value>Assets\river.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square.scale360x360.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/Square.scale360x360.png">
+					<Candidate type="Path">
+						<Value>Assets\Square.scale360x360.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="timer.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/timer.jpg">
+					<Candidate type="Path">
+						<Value>Assets\timer.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="water.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/water.jpg">
+					<Candidate type="Path">
+						<Value>Assets\water.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="waterSplashPhone1152x1920.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/waterSplashPhone1152x1920.png">
+					<Candidate type="Path">
+						<Value>Assets\waterSplashPhone1152x1920.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="waves.jpg" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/waves.jpg">
+					<Candidate type="Path">
+						<Value>Assets\waves.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://27627Majella.CrystalClear/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Several Problem Statements}{3}
+\contentsline {subsection}{\numberline {1.2}Objectives and Aims}{4}
+\contentsline {section}{\numberline {2}Literature Review}{4}
+\contentsline {subsection}{\numberline {2.1}Introduction}{4}
+\contentsline {subsection}{\numberline {2.2}Issues in Mobile Usabilty}{4}
+\contentsline {subsection}{\numberline {2.3}Testing Usability}{5}
+\contentsline {subsection}{\numberline {2.4}Speech Technology}{7}
+\contentsline {subsection}{\numberline {2.5}Dominance of Usability}{7}
+\contentsline {section}{\numberline {3}System Architecture and Software Design}{9}
+\contentsline {subsection}{\numberline {3.1}Analysis and Specification}{9}
+\contentsline {subsection}{\numberline {3.2}Goal of the System Architecture}{12}
+\contentsline {section}{\numberline {4}Software Evaluation}{12}
+\contentsline {section}{\numberline {5}Conclusion}{12}
+\contentsline {section}{\numberline {6}Appendices}{13}
+\contentsline {subsection}{\numberline {6.1}Installation Instructions}{13}
+\contentsline {subsection}{\numberline {6.2}Coding Listings}{13}

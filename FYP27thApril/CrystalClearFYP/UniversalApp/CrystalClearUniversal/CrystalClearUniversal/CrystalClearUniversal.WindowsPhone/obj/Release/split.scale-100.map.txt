@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\user\Desktop\FYP27thApril\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\obj\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\user\Desktop\FYP27thApril\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\obj\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"
+"C:\Users\user\Desktop\FYP27thApril\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.WindowsPhone\obj\Release\PackageLayout\Assets\120x120.scale-100.png"			"Assets\120x120.scale-100.png"

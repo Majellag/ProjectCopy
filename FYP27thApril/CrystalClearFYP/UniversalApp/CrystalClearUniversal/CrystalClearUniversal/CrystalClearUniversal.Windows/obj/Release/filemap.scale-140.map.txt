@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\user\Desktop\FYP27thApril\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\obj\Release\filemap.scale-140.pri"			"resources.pri"
+"C:\Users\user\Desktop\FYP27thApril\NormalVersion\UniversalApp\CrystalClearUniversal\CrystalClearUniversal\CrystalClearUniversal.Windows\obj\Release\PackageLayout\Assets\waterSplash620x300.scale-140.png"			"Assets\waterSplash620x300.scale-140.png"

@@ -1,0 +1,107 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="CrystalClearUniversal.WaterConservation"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CrystalClearUniversal"
+    xmlns:common="using:CrystalClearUniversal.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Water Conservation</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid Background="#FF136583">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,20" FontWeight="Bold"/>
+        </Grid>
+        <StackPanel HorizontalAlignment="Left" Height="608" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="516">
+            <Button x:ConnectionId='1' Content="&#xA;&#xA;&#xA;&#xA;Kitchen" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="208"                       Foreground="#FF0E0D0D" FontWeight="Bold" FontSize="24">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/kitchen2.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button x:ConnectionId='2' Content="&#xA;&#xD;&#xA;Bathroom" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="200"                        Foreground="#FF151414" FontSize="29.333">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/bathroom.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button x:ConnectionId='3' Content="&#xA;&#xD;&#xA;Garden" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="189"                      FontSize="29.333" FontWeight="Bold" Foreground="#FF252222">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/garden.jpg"/>
+                </Button.Background>
+            </Button>
+
+        </StackPanel>
+        <TextBlock Name="txtInformationKitchen" HorizontalAlignment="Left" Margin="531,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Ways to Conserve Water in the Kitchen" Visibility="Visible" VerticalAlignment="Top" Height="47" Width="835" FontWeight="Bold" FontFamily="Arial Black" FontSize="26.667" TextAlignment="Center"/>
+        <TextBlock Name="txtInformationBathroom" HorizontalAlignment="Left" Margin="531,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Ways to Conserve Water in the Bathroom" Visibility="Collapsed" VerticalAlignment="Top" Height="608" Width="825" FontWeight="Bold" FontFamily="Arial Black" FontSize="26.667" TextAlignment="Center" Foreground="#FFF4F6FF"/>
+        <TextBlock Name="txtInformationGarden" HorizontalAlignment="Left" Margin="531,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Ways to Conserve Water in the Garden" Visibility="Collapsed" VerticalAlignment="Top" Height="608" Width="835" FontWeight="Bold" FontFamily="Arial Black" FontSize="26.667" TextAlignment="Center"/>
+        <TextBlock Name="txtKitchenInfo" HorizontalAlignment="Left" Margin="531,62,0,0" Grid.Row="1" Visibility="Visible" TextWrapping="Wrap" FontSize="30" VerticalAlignment="Top" Width="825" Height="556">
+        	<Run Text="1. Don't run your washing machine and dishwasher until they are full."/>
+        	<LineBreak/>
+        	<Run Text="2. Only fill your kettle with as much water as you need - you'll also save on your electricity bill."/>
+        	<LineBreak/>
+        	<Run Text="3. Use a basin. It's useful for washing dishes by hand or collecting the water you use to rinse fruit and veg – which can then be used for watering plants."/>
+        	<LineBreak/>
+        	<Run Text="4. Keep a jug of water in the fridge instead of running the tap to make the water cool to drink."/>
+        	<LineBreak/>
+        	<Run Text="5. Check for any leaks in your kitchen."/>
+        </TextBlock>
+        <TextBlock Name="txtBathInfo" HorizontalAlignment="Left" Margin="531,62,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" FontSize="30" Visibility="Collapsed" VerticalAlignment="Top" Width="825" Height="556">
+          	<Run Text="1. Use the shower instead of soaking in the bath."/>
+        	<LineBreak/>
+        	<Run Text="2. Spend less time in the shower."/>
+        	<LineBreak/>
+        	<Run Text="3. Flush the toilet only when necessary - depending on your cistern's age and size one flush can use up to 9 litres of water."/>
+        	<LineBreak/>
+        	<Run Text="4. Consider adding a displacement device to your cistern to reduce the amount of water used."/>
+        	<LineBreak/>
+        	<Run Text="5. Turn the tap off when brushing your teeth, shaving or washing your face."/>
+        </TextBlock>
+
+        <TextBlock Name="txtInfoGarden" HorizontalAlignment="Left" Margin="531,62,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" FontSize="30" Visibility="Collapsed" VerticalAlignment="Top" Width="825" Height="556">
+        <Run Text="1. Collect rainwater to use in your garden instead of using drinking water from the tap."/>
+        <LineBreak/>
+        <Run Text="2. Use a rose head watering can instead of a hose to water your plants."/>
+        <LineBreak/>
+        <Run Text="3. Use a bucket and sponge to wash your car or windows instead of a hose."/>
+        <LineBreak/>
+        <Run Text="4. Avoid watering your lawn – grass can survive long dry spells and recovers quickly with the next rainfall."/>
+        <LineBreak/>
+        <Run Text="5. Regularly check your outdoor taps, pipes and plumbing fixtures for leaks."/>
+        </TextBlock>
+    </Grid>
+
+</Page>
+
